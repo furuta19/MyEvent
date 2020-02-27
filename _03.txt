@@ -1,0 +1,5 @@
+1. EF Core
+2. Fluent API
+3. LINQ
+4. LINQ TO ENTITIES
+5. IDENTITY
